@@ -40,3 +40,4 @@ if (mas[9] <= mas.Length)
 {
     Console.WriteLine(mas[9]);
 }
+
